@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+    text-decoration: underline;
+  font-size: 15px;
+  font-family: cursive;
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+  border-image: ridge;
+}
+img{
+width: 390px;
+    height: 390px;
+  
+}
+
